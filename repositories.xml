@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>stefan-langenmaier</name>
+		<description>google-authenticator</description>
+		<homepage>https://github.com/stefan-langenmaier/google-authenticator-overlay</homepage>
+		<owner type="person">
+			<email>stefan.langenmaier@gmail.com</email>
+			<name><![CDATA[Stefan Langenmaier]]></name>
+		</owner>
+		<source type="git">https://github.com/stefan-langenmaier/google-authenticator-overlay.git</source>
+		<feed>http://github.com/stefan-langenmaier/google-authenticator-overlay/commits/master.atom</feed>
+	</repo>
+</repositories>
